@@ -1,6 +1,5 @@
 # 💫 About Me:
-Если честно я совсем новый в сфере программирования ,<br>не чего толком еще не знаю. Сейчас изучаю Python и мне это нравится .<br>С детства я хотел создать игру , это мое заветное желание ,но я знаю<br>что мне еще много чему надо учится . И поэтому просто хотел написать<br>число (27.05.2025), знаю это странно но для меня это мотивация.<br>Если кто то это увидеть не удивляйтесь ;)))
-
+Men yosh dasturchiman va hozirda backend yo‘nalishida o‘z faoliyatimni boshlayapman. Asosiy maqsadim — zamonaviy web-ilovalar uchun ishonchli va samarali backend qismini yaratish, shuningdek, doimiy o‘rganish va o‘z ustimda ishlashdir. Kod yozishda toza va tushunarli yechimlarga intilaman. Hozircha tajribam kam bo‘lsa-da, muntazam o‘qib, amaliy loyihalar orqali ko‘nikmalarimni mustahkamlashni rejalashtirganman.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdurashidovv_06) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Abdulaziz-cs3xb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geroy7707.a@gmail.com) 
